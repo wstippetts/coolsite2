@@ -1,0 +1,56 @@
+header{
+  font-family: 'Sofia Sans Extra Condensed', sans-serif;
+  background-color: sandybrown;
+  padding: 1.2em;
+  font-size: 3em;
+  text-align: center;
+  
+}
+
+
+body{
+  margin: 0;
+  background-color: bisque;
+}
+
+footer{
+  font-family: 'Sofia Sans Extra Condensed', sans-serif;
+  background-color: sandybrown;
+  padding: 2em;
+  font-size: 1.6em;
+  text-align: center;
+  margin: 0;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+
+
+.space{
+  border: 20px;
+}
+
+.tophead{
+  border-radius: 2%;
+  margin-top: 25px;
+  border-top: 25px solid saddlebrown;
+}
+
+.display-flex{
+  display: flex;
+}
+
+.just-even{
+  justify-content: space-around;
+}
+
+.truck-img{
+  height: 33vh;
+}
+
+.card{
+  max-width: 33vw;
+  border: 3px solid saddlebrown;
+
+}
